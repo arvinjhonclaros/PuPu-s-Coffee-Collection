@@ -1,2 +1,2 @@
-# PuPu-s-Coffee-Collection
+# PuPus-Coffee-Collection
 collection of coffee
